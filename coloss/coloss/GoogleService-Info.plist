@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAu6CJFQBpipa1Bpg51mR4X593JoTLDuY0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>169087909787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kulakov.coloss</string>
+	<key>PROJECT_ID</key>
+	<string>kolos-7ab2b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kolos-7ab2b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:169087909787:ios:b7de48fda5d2f716cdab3e</string>
+</dict>
+</plist>
